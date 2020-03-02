@@ -1,0 +1,36 @@
+html,body,ul,ol,h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #333;
+}
+.clearfix:after {
+	content: "";
+	display: block;
+	clear: both;
+	height: 0px;
+	line-height: 0px;
+	visibility: hidden;
+	}
+
+	.clearfix {
+	zoom: 1;
+	/* 为了兼容ie浏览器 */
+	}
+.h2{
+    font-size: 15px;
+    text-align: center;
+    padding: 13px 0;
+    font-weight: normal;
+}
+
+
+.mint-indicator-wrapper{
+    z-index: 10000;    
+}
+  

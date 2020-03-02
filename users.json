@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5e552f8839d97d3ef853a61a"},"username":"grubby","password":"123123","__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e562f546708bf38ec6309bd"},"username":"zhangsan","password":"281c136bb4c72251cfa2af78963bec17","price":{"$numberInt":"0"},"__v":{"$numberInt":"0"}}
+{"_id":{"$oid":"5e57f177b1ee4524b434fd8c"},"username":"wangwu","password":"20c1129b3236f1c85d4ea82944c7a297","price":{"$numberInt":"0"},"__v":{"$numberInt":"0"}}

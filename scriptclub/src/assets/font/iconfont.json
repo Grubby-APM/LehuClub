@@ -1,0 +1,128 @@
+{
+  "id": "1638665",
+  "name": "剧本社",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5752314",
+      "name": "二维码",
+      "font_class": "erweima1",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "811621",
+      "name": "优惠券 券面",
+      "font_class": "youhuiquanquanmian",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "960214",
+      "name": "地点",
+      "font_class": "didian",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "1132971",
+      "name": "预约",
+      "font_class": "yuyue1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1237545",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1856034",
+      "name": "个人",
+      "font_class": "geren",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "1875630",
+      "name": "火",
+      "font_class": "huo",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "2945199",
+      "name": "搜索--1",
+      "font_class": "soushuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3312874",
+      "name": "侦探",
+      "font_class": "zhentan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "3693184",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "4509043",
+      "name": "分类",
+      "font_class": "ziyuan1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4692248",
+      "name": "现场盘存",
+      "font_class": "xianchangpancun",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "4928209",
+      "name": "左",
+      "font_class": "zuo",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6354551",
+      "name": "勾",
+      "font_class": "gou",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "6712533",
+      "name": "我们",
+      "font_class": "women",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "11794974",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e723",
+      "unicode_decimal": 59171
+    },
+    {
+      "icon_id": "649698",
+      "name": "多人",
+      "font_class": "duoren",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    }
+  ]
+}
